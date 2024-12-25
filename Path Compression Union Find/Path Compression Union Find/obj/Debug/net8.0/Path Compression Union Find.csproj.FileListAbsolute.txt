@@ -1,0 +1,14 @@
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\bin\Debug\net8.0\Path Compression Union Find.exe
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\bin\Debug\net8.0\Path Compression Union Find.deps.json
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\bin\Debug\net8.0\Path Compression Union Find.runtimeconfig.json
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\bin\Debug\net8.0\Path Compression Union Find.dll
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\bin\Debug\net8.0\Path Compression Union Find.pdb
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\obj\Debug\net8.0\Path Compression Union Find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\obj\Debug\net8.0\Path Compression Union Find.AssemblyInfoInputs.cache
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\obj\Debug\net8.0\Path Compression Union Find.AssemblyInfo.cs
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\obj\Debug\net8.0\Path Compression Union Find.csproj.CoreCompileInputs.cache
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\obj\Debug\net8.0\Path Compression Union Find.dll
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\obj\Debug\net8.0\refint\Path Compression Union Find.dll
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\obj\Debug\net8.0\Path Compression Union Find.pdb
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\obj\Debug\net8.0\Path Compression Union Find.genruntimeconfig.cache
+C:\Users\Saleh Mostafa\OneDrive\Desktop\College\Union Find C#\Path compression union find\Path Compression Union Find\Path Compression Union Find\obj\Debug\net8.0\ref\Path Compression Union Find.dll

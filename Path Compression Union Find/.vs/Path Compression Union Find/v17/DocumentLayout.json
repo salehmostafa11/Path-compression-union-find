@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saleh Mostafa\\OneDrive\\Desktop\\College\\Union Find C#\\Path compression union find\\Path Compression Union Find\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{637836FD-E489-458A-BEEA-6FEF4B963A7C}|Path Compression Union Find\\Path Compression Union Find.csproj|c:\\users\\saleh mostafa\\onedrive\\desktop\\college\\union find c#\\path compression union find\\path compression union find\\path compression union find\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637836FD-E489-458A-BEEA-6FEF4B963A7C}|Path Compression Union Find\\Path Compression Union Find.csproj|solutionrelative:path compression union find\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637836FD-E489-458A-BEEA-6FEF4B963A7C}|Path Compression Union Find\\Path Compression Union Find.csproj|c:\\users\\saleh mostafa\\onedrive\\desktop\\college\\union find c#\\path compression union find\\path compression union find\\path compression union find\\pathcompressionunionfindalg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637836FD-E489-458A-BEEA-6FEF4B963A7C}|Path Compression Union Find\\Path Compression Union Find.csproj|solutionrelative:path compression union find\\pathcompressionunionfindalg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637836FD-E489-458A-BEEA-6FEF4B963A7C}|Path Compression Union Find\\Path Compression Union Find.csproj|c:\\users\\saleh mostafa\\onedrive\\desktop\\college\\union find c#\\path compression union find\\path compression union find\\path compression union find\\kruksal\u0027s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637836FD-E489-458A-BEEA-6FEF4B963A7C}|Path Compression Union Find\\Path Compression Union Find.csproj|solutionrelative:path compression union find\\kruksal\u0027s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637836FD-E489-458A-BEEA-6FEF4B963A7C}|Path Compression Union Find\\Path Compression Union Find.csproj|c:\\users\\saleh mostafa\\onedrive\\desktop\\college\\union find c#\\path compression union find\\path compression union find\\path compression union find\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637836FD-E489-458A-BEEA-6FEF4B963A7C}|Path Compression Union Find\\Path Compression Union Find.csproj|solutionrelative:path compression union find\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "C:\\Users\\Saleh Mostafa\\OneDrive\\Desktop\\College\\Union Find C#\\Path compression union find\\Path Compression Union Find\\Path Compression Union Find\\Edge.cs",
+              "RelativeDocumentMoniker": "Path Compression Union Find\\Edge.cs",
+              "ToolTip": "C:\\Users\\Saleh Mostafa\\OneDrive\\Desktop\\College\\Union Find C#\\Path compression union find\\Path Compression Union Find\\Path Compression Union Find\\Edge.cs",
+              "RelativeToolTip": "Path Compression Union Find\\Edge.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:16:06.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kruksal\u0027s.cs",
+              "DocumentMoniker": "C:\\Users\\Saleh Mostafa\\OneDrive\\Desktop\\College\\Union Find C#\\Path compression union find\\Path Compression Union Find\\Path Compression Union Find\\Kruksal\u0027s.cs",
+              "RelativeDocumentMoniker": "Path Compression Union Find\\Kruksal\u0027s.cs",
+              "ToolTip": "C:\\Users\\Saleh Mostafa\\OneDrive\\Desktop\\College\\Union Find C#\\Path compression union find\\Path Compression Union Find\\Path Compression Union Find\\Kruksal\u0027s.cs",
+              "RelativeToolTip": "Path Compression Union Find\\Kruksal\u0027s.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:15:25.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PathCompressionUnionFindAlg.cs",
+              "DocumentMoniker": "C:\\Users\\Saleh Mostafa\\OneDrive\\Desktop\\College\\Union Find C#\\Path compression union find\\Path Compression Union Find\\Path Compression Union Find\\PathCompressionUnionFindAlg.cs",
+              "RelativeDocumentMoniker": "Path Compression Union Find\\PathCompressionUnionFindAlg.cs",
+              "ToolTip": "C:\\Users\\Saleh Mostafa\\OneDrive\\Desktop\\College\\Union Find C#\\Path compression union find\\Path Compression Union Find\\Path Compression Union Find\\PathCompressionUnionFindAlg.cs",
+              "RelativeToolTip": "Path Compression Union Find\\PathCompressionUnionFindAlg.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:38:32.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saleh Mostafa\\OneDrive\\Desktop\\College\\Union Find C#\\Path compression union find\\Path Compression Union Find\\Path Compression Union Find\\Program.cs",
+              "RelativeDocumentMoniker": "Path Compression Union Find\\Program.cs",
+              "ToolTip": "C:\\Users\\Saleh Mostafa\\OneDrive\\Desktop\\College\\Union Find C#\\Path compression union find\\Path Compression Union Find\\Path Compression Union Find\\Program.cs",
+              "RelativeToolTip": "Path Compression Union Find\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:37:45.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

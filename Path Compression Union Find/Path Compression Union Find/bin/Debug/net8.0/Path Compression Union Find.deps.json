@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Path Compression Union Find/1.0.0": {
+        "runtime": {
+          "Path Compression Union Find.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Path Compression Union Find/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
